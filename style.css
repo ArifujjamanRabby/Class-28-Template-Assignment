@@ -1,0 +1,179 @@
+img{
+    width: 100%;
+}
+
+/* Header-section start */
+
+header{
+    background-color: #fff;
+}
+header img {
+    width: 115px;
+}
+header ul li a{
+    font-weight: 500;
+}
+
+/* Header-section end */
+
+/* slider-section start */
+
+.slider{
+    background-color: #f7f9ff;
+}
+.slider-content {
+    margin: 250px 0 0;
+}
+.s-btn{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background-color: #8490ff;
+}
+.slider-img{}
+
+/* slider-section end */
+
+/* about-section start */
+
+.about-content {
+    margin: 90px 0 0 25px;
+}
+
+/* about-section end */
+
+/* counter-section start */
+
+.counter-section{
+    background-color: #8490ff;
+    padding: 80px 0;
+}
+.number-counter p{
+    margin: 0;
+}
+
+/* counter-section end */
+
+/* pricing-section start */
+
+.pricing-section{
+    background-color: #f7f9ff;
+}
+.p-item{
+    margin-top: 40px;
+    background-color: #fff;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(132, 144, 255, 0.2);
+}
+.count-div{
+    font-size: 45px;
+    background-color: #f7f9ff;
+    display: inline-block;
+    padding: 15px 25px;
+    border-radius: 50%;
+}
+.p-item h4{
+    color: #525252;
+    font-size: 26px;
+}
+.p-item h6{
+    color: #525252;
+    font-size: 18px;
+    margin-top: 8px;
+}
+.p-item p{
+    margin: 0;
+    color: #767676;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.p-button{
+    margin-top: 50px;
+}
+.p-btn{
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 21px;
+    word-spacing: 1.5px;
+    letter-spacing: -1px;
+    color: #8490ff;
+    padding: 10px 25px;
+    border-radius: 6px;
+    background-color: #fff;
+    border: 2px solid #8490ff;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(132, 144, 255, 0.4);
+}
+
+/* pricing-section end */
+
+/* team-section start */
+
+.team-section {
+    margin-top: 80px;
+}
+.user-img img{
+    width: 100px;
+}
+.user-img {
+    margin: -94px 0 0 -167px;
+}
+.user-bio h3{
+    color: #525252;
+}
+.user-bio h6{
+    color: #767676;
+}
+.user-button{
+    margin: 32px 0 20px;
+}
+.user-btn{
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 21px;
+    word-spacing: 1.5px;
+    letter-spacing: -1px;
+    color: #525252;
+    padding: 10px 25px;
+    border-radius: 6px;
+    background-color: #fff;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(82, 82, 82, 0.452);
+}
+
+/* team-section end */
+
+/* contact-section start */
+
+.contact-section{
+    background-color: #f7f9ff;
+}
+.cn-form{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(98, 121, 223, 0.315);
+    border-radius: 6px;
+}
+.contact-btn{
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 21px;
+    word-spacing: 1.5px;
+    letter-spacing: -1px;
+    color: #fff;
+    padding: 10px 25px;
+    border-radius: 6px;
+    background-color: #629eb4;
+    border: 1px solid #629eb4;
+}
+.contact-details{
+    padding: 160px 80px;
+}
+.contact-details p{
+    font-weight: 500;
+}
+
+/* contact-section end */
+
+/* footer start */
+
+footer{
+    background-color: #04091e;
+}
+
+/* footer end */

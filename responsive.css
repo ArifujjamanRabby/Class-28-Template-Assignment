@@ -1,0 +1,48 @@
+@media (max-width: 1200px) {
+    .slider-content {
+        margin: 175px 0;
+    }
+    .about-content {
+        margin: 40px 0 0 0;
+    }
+    .about-content p {
+        padding: 0 !important;
+    }
+}
+@media (max-width: 992px) {
+    header ul {
+        align-items: flex-end;
+    }
+    .slider-content {
+        margin: 85px 0;
+    }
+    .about-content {
+        margin: 16px;
+    }
+    .counter-section {
+        padding: 60px 0;
+    }
+    .team-section {
+        margin-top: 90px;
+        padding: 0 !important;
+    }
+    .user-info {
+        margin: 0 0 90px;
+    }
+    .contact-details {
+        padding: 24px 0;
+    }
+}
+@media (max-width: 768px) {
+    .slider-content {
+        margin: 0;
+        padding: 16px 0;
+    }
+    .number-counter {
+        margin-bottom: 16px;
+    }
+    .counter-section {
+        padding: 30px 0;
+    }
+    
+}
